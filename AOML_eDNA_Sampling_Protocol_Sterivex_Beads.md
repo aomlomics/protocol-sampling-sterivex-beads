@@ -18,7 +18,7 @@ language: en
 issued: 2024-08-15
 audience: scientists
 publisher: NOAA Atlantic Oceanographic and Meteorological Laboratory
-hasVersion: 1.2.5
+hasVersion: 1.3.5
 license: CC0 1.0 Universal
 maturity level: mature
 
@@ -105,6 +105,7 @@ filter_material: polyethersulfone
 | 1.2.3 | 2026-01-16 | Updated YAML front matter |
 | 1.2.4 | 2026-01-16 | Updated YAML front matter with version number |
 | 1.2.5 | 2026-05-18 | Minor updates to protocol wording |
+| 1.3.5 | 2026-08-20 | Added info on different Sterivex models |
 
 ### Acronyms and Abbreviations
 
@@ -169,9 +170,10 @@ The process of setting up sampling equipment and filtering seawater will take ~2
 | 2 L graduated cylinders | Graduated cylinder - 2 L | Generic brand | 3 | Depends on # of samples being pumped at once, can be substituted with carboys which tubing will be directly attached to (no serological pipets) using adapters |
 | -20 °C freezer | -20 °C commercial chest freezer | Generic brand | 1 | |
 | **Consumable equipment** |
-| Sterivex filter | Millipore Sterivex-GP Pressure Filter Unit, 0.22µm pore size | Millipore Sigma | 175 | Quantity depends on number of samples desired, remember to account for negative control field blanks |
-| Inlet (male) luer-lock cap | MasterFlex Male Luer Lock Plug | VWR | 175 | Depends on # of samples, one per Sterivex |
-| Outlet (female) luer-lock cap | MasterFlex Female Luer Thread Style Cap | VWR | 175 | Depends on # of samples, one per Sterivex |
+| Sterivex Filter | Millipore Sterivex-GP Pressure Filter Unit, 0.22µm pore size | Millipore Sigma | 175 | Model SVGPL10RC with Luer-Lok inlet and outlet or model SVGP01050 with outlet nipple, different models require different caps; Quantity depends on number of samples desired, remember to account for negative control field blanks |
+| Luer-Lok Male Filter Cap | Masterflex Male Luer Lock Cap (MFLX30800-30) | VWR | 175 | Required for either model of Sterivex (SVGPL10RC or SVGP01050) |
+| Luer-Lok Female Filter Cap | Masterflex Female Luer Cap (MFLX30800-12) | VWR | 175 | Required for Sterivex model SVGPL10RC |
+| Female Outlet Nipple Cap | 0.100" x 0.500" FEO RED Silicone Cap | STOCKCAP | 175 | Can also use generic putty or blu tak to seal female outlet end of Sterivex model SVGP01050 |
 | Pre-printed Cryo-Babies labels | Cryo-Babies LCRY-1700 | Diversified Biotech | 175 | Depends on # of samples, one per Sterivex |
 | Sterile collection bags | Whil-Pak collection bags | Cole Parmer | 1 box | Various sizes can be used for water collection |
 | DNA/RNA Shield | Zymo DNA/RNA Shield | Zymo Research | 175 |(mL) 1mL required per Sterivex |
